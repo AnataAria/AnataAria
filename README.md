@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Unity and designing 2D/3D to become better game dev
 
 ### How to contact me
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width = "30px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width = "30px"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width = "30px">
+
 
 <!---
 AnataAria/AnataAria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
