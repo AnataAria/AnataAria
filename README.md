@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unity and designing 2D/3D to become better game dev
 
 ### How to contact me
-<image src="https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/PNG/facebook.png" width = "30px">
+<img src="https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/PNG/facebook.png" width = "30px">
 
 <!---
 AnataAria/AnataAria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
