@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unity and designing 2D/3D to become better game dev
 
 ### How to contact me
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width = "30px">](https://www.facebook.com/arisa.anata.5/)          [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width = "30px">](https://twitter.com/anata_arisa) [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width= "30px">](https://discord.gg/KRmwg74a)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width = "50px">](https://www.facebook.com/arisa.anata.5/)          [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width = "50px">](https://twitter.com/anata_arisa)        [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width= "50px">](https://discord.gg/KRmwg74a)
 
 
 <!---
