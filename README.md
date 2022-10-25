@@ -5,6 +5,8 @@
 
 ### How to contact me
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width = "50px">](https://www.facebook.com/arisa.anata.5/)          [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width = "50px">](https://twitter.com/anata_arisa)        [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width= "50px">](https://discord.gg/KRmwg74a)
+### Language and tools
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width = "50px">  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width ="50px">  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width= "50px">   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width ="50px">
 
 
 <!---
