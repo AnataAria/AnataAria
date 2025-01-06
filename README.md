@@ -5,11 +5,12 @@
 - My major is **Software Engineering**
 - I am currently studying at FPT University
 - I am passionate about design and building software solutions. I also love game programming and want to be one in future
-- My main language is **Java** and most of my techs are from java but I also love other languages tech that most improve programming like **Rust**, **Dotnet**,...
+- My main language is **Java** and most of my techs are from java but I also love other languages tech that most improve programming performance like **Rust**, **Dotnet**,...
 - I enjoy learning new technologies and optimizing performance to ensure scalable and efficient systems.
 - I have experience working with web and mobile applications, backend services, and cloud infrastructures.
 - Outside of programming, I love gaming, anime/manga and exploring new tech trends.
 - Currently, I’m focused on enhancing my skills in software architects, system designs, DevOps, and game development.
+- Fun Fact: My favorite way to de-stress is by coding what I love, deploying experiments when I have free or just basically watch anime and manga to make more ideas for new game stories.
 ---
 
 ## 📊 GitHub Stats
@@ -60,7 +61,7 @@
 
 ### **APIS**
 <div>
-  <img src="https://img.shields.io/badge/RESTful_API-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
+  <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
@@ -74,6 +75,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
 ### **DevOps**  
@@ -91,7 +93,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Rancher-00A9E1?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Open_Tofu-2D57A1?style=for-the-badge&logo=open-tfu&logoColor=white" alt="Open Tofu" />
+  <img src="https://img.shields.io/badge/Open_Tofu-2D57A1?style=for-the-badge&logo=open-tofu&logoColor=white" alt="Open Tofu" />
   <img src="https://img.shields.io/badge/Ansible-00A9E1?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </div>
 
@@ -105,7 +107,7 @@
 ### **Tools** 
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux_(BTW)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux BTW" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
